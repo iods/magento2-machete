@@ -1,4 +1,4 @@
-<h1 align="center">Magento 2 Bones</h1>
+<h1 align="center">Magento 2 MACHete</h1>
 
 ### Description
 
@@ -10,8 +10,8 @@ and maintains consistency across projects.
 Facts
 -----
 
- * Version: 1.2.1
- * [Repository on Github](https://github.com/iods/magento2-bones)
+ * Version: 000.1.1
+ * [Repository on Github](https://github.com/iods/magento2-machete)
 
 
 Getting Started
@@ -181,4 +181,4 @@ This project/code is released under [the MIT license](https://github.com/iods/ma
 Copyright
 ---------
 
-(c) 2020-2021 Rye Miller. All Rights Reserved.
+(c) 2022 Rye Miller. All Rights Reserved.
